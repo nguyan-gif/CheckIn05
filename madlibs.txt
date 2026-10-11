@@ -1,12 +1,14 @@
-adjective (descriptor): 
-adjective (descriptor): 
-plural noun (person/place/thing):
-a number:
-plural noun (person/place/thing):
-adjective (descriptor): 
-proper noun (name of a person/place/thing):
-verb (action word) ending in -ing:
-adjective (descriptor):
-noun (person/place/thing):
-adjective (descriptor):
-noun (person/place/thing):
+adjective (descriptor): Frightened
+adjective (descriptor): Forgotten
+plural noun (person/place/thing): Writer
+a number: 667
+plural noun (person/place/thing): Cauldron Lake
+adjective (descriptor): Deep
+proper noun (name of a person/place/thing): Bright Falls
+verb (action word) ending in -ing: Returning 
+adjective (descriptor): Curious
+noun (person/place/thing): Agent
+adjective (descriptor): Tired
+noun (person/place/thing): Detective
+
+"It's not a loop. It's a spiral."
